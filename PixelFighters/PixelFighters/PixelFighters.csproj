@@ -42,7 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Game1.cs" />
-    <Compile Include="Managers\GameplayManager.cs" />
+    <Compile Include="Content\GameplayManager.cs" />
     <Compile Include="Objects\GameObject.cs" />
     <Compile Include="Objects\MovingObject.cs" />
     <Compile Include="Objects\Platform.cs" />
